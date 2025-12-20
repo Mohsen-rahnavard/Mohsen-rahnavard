@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Mohsen Rahnavard</h1>
-<h3 align="center">Associate Product Manager | Tech & Design Background</h3>
+<h3 align="center">Associate Product Manager | Web & App Development Background</h3>
 
 
 ---
