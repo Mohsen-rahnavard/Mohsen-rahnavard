@@ -3,30 +3,17 @@
 </p>
 
 <h1 align="center">Mohsen Rahnavard</h1>
-<h3 align="center"> Product Designer </h3>
+<h3 align="center">AI & Digital Solutions Developer </h3>
 
 
 ---
 
 ## About Me
-I’ve built my career on creativity, starting as a teacher, where I developed discipline, communication and deep understanding of people. Over time, I moved into design and development, combining creativity with technology to design and build meaningful digital products. Today, as a product designer & owner , I bring together visual design, user experience, analytical expertise and product thinking to create intuitive, user-centered solutions through problem-solving and continuous learning.
+I’ve built my career on creativity, starting as a teacher, where I developed discipline, communication and deep understanding of people. Over time, I moved into design and development, combining creativity with technology to design and build meaningful digital products. Today, as an AI & digital solution developer , I bring together visual design, user experience, analytical expertise and product thinking to create intuitive, user-centered solutions through problem-solving and continuous learning.
 
 ---
 
 ## Skills
-
-### Product Management & Tools
-- Writing user stories
-- Managing backlogs
-- Dashboard creation & visualization
-- KPI definition & reporting
-- Power BI, Qlik, Mixpanel, Jira, Trello, Asana
-- Roadmapping, Product lifecycle understanding
-- Market research & competitive analysis
-- Data-driven mindset (Google Analytics)
-- Predictive analytics
-- Agile & Scrum fundamentals
-- Communication & stakeholder management
 
 ### Technical & Design
 - HTML, CSS, JavaScript.
